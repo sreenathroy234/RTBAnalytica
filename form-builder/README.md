@@ -13,6 +13,3 @@
   - NB: to run it on your local network, type `python manage.py runserver 0.0.0.0:8000`
 - You project will be accessible in your localhost or local network.
 
-## Deployment
-
-For deployment, open `form/settings.py` file and uncomment code from line 131 to 159.
